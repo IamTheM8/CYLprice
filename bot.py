@@ -3,8 +3,8 @@ import requests
 import time
 import json
 
-bot_token = '<bot token>'
-api_url = "https://api.telegram.org/bot{573578029:AAEampeOkKACvVFeC_qsYHXpXir7XYzqnsU}/".format(bot_token)
+bot_token = 'bot573578029:AAEampeOkKACvVFeC_qsYHXpXir7XYzqnsU'
+api_url = "https://cylprice-bot.herokuapp.com".format(bot_token)
 
 bot=telebot.TeleBot(token=bot_token)
 
