@@ -1,2 +1,1 @@
-# CYLprice
-CYL price bot
+# Bit Price bot on Telegram
